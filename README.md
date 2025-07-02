@@ -18,10 +18,15 @@ Abbiamo visto qualcosa di particolare che possiamo usare?<br>
 
 <hr>
 
-<b>Ipotesi di risoluzione</b>
+<b>Ipotesi di risoluzione</b><br>
 <ul>
-<li>Utilizzare un Ciclo For in incremento che stampi i numeri da 1 a 100,</li>
-<li>Porre la condizione tramite "if - else if - else" per il riconoscimento dei multipli di 3, di 5 e di 3 e 5,</li>
-<li>Sostituire in base alle casistiche i numeri alle parole "Fizz" e "Buzz"</li>
+<li>utilizzare un Ciclo For in incremento che stampi i numeri da 1 a 100,</li>
+<li>porre la condizione tramite "if - else if - else" per il riconoscimento dei multipli di 3, di 5 e di 3 e 5,</li>
+<li>sostituire in base alle casistiche i numeri alle parole "Fizz" e "Buzz" o entrambe</li> 
+</ul><br>
 
+<b>Calcoli</b><br>
+<ul>
+<li>individuare come "i" incremento il numero da 1 a 100</li>
+<li>constatare se il numero è multiplo di 3 o 5 in base al prodotto i % x === 0</li>
 </ul>
