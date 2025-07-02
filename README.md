@@ -15,3 +15,12 @@ Abbiamo visto qualcosa di particolare che possiamo usare?<br>
 <ul>
 <li>scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare,</li>
 <li>proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano".</li></ul>
+
+<hr>
+
+<b>Ipotesi di risoluzione</b>
+<ul>
+<li>Utilizzare un Ciclo For in incremento che stampi i numeri da 1 a 100,</li>
+<li>Porre la condizione tramite "if - if else - else" per il riconoscimento dei multipli,</li>
+
+</ul>
